@@ -1,0 +1,11 @@
+.bytedesk-widget {
+    z-index: 999999 !important;
+}
+
+.bytedesk-bubble {
+    transition: all 0.3s ease;
+}
+
+.bytedesk-bubble:hover {
+    transform: scale(1.1);
+} 
